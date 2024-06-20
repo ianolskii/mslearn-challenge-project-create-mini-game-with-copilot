@@ -3,9 +3,6 @@ import sys
 
 
 ACTIONS = ["rock", "scissors", "paper"]
-EXIT = "exit"
-AGAIN = "again"
-
 
 
 def check_win(p1, p2) -> int:
